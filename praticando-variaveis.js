@@ -53,7 +53,7 @@ console.log(humans[0].name)
 //8.Crie um novo objeto human e coloque na posição 1 do array humans.
 
 let newHuman = { 
-    name: "Jamerson",//string
+    name: "Rodrigo",//string
     age: 22,// Integer
     weight: 76.5,// Float
     isAdmin: true,//Boolean
